@@ -1,3 +1,5 @@
+Projet de Quentin COUTURIER et Médéric DEMAILLY
+
 # Refactoring Golf
 
 - Start on hole 1 and refactor the code to be like the code in hole 2
